@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Description>
+        A .NET Core WebApi project, utilizing SqlLite and EF Core, for Applaudo Studio Evaluation</Description>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\applevalApi.Entities\applevalApi.Entities.csproj" />
+    <ProjectReference Include="..\applevalApi.Persistence\applevalApi.Persistence.csproj" />
+  </ItemGroup>
+</Project>

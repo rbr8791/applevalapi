@@ -1,0 +1,1252 @@
+[
+  {
+    "ISOCountryCode": "BD",
+    "Name": "Bangladesh",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "BE",
+    "Name": "Belgium",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "BF",
+    "Name": "Burkina Faso",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "BG",
+    "Name": "Bulgaria",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "BA",
+    "Name": "Bosnia and Herzegovina",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "BB",
+    "Name": "Barbados",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "WF",
+    "Name": "Wallis and Futuna",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "BL",
+    "Name": "Saint Barthelemy",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "BM",
+    "Name": "Bermuda",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "BN",
+    "Name": "Brunei",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "BO",
+    "Name": "Bolivia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "BH",
+    "Name": "Bahrain",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "BI",
+    "Name": "Burundi",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "BJ",
+    "Name": "Benin",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "BT",
+    "Name": "Bhutan",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "JM",
+    "Name": "Jamaica",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "BV",
+    "Name": "Bouvet Island",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "BW",
+    "Name": "Botswana",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "WS",
+    "Name": "Samoa",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "BQ",
+    "Name": "Bonaire Saint Eustatius and Saba ",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "BR",
+    "Name": "Brazil",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "BS",
+    "Name": "Bahamas",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "JE",
+    "Name": "Jersey",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "BY",
+    "Name": "Belarus",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "BZ",
+    "Name": "Belize",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "RU",
+    "Name": "Russia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "RW",
+    "Name": "Rwanda",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "RS",
+    "Name": "Serbia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "TL",
+    "Name": "East Timor",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "RE",
+    "Name": "Reunion",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "TM",
+    "Name": "Turkmenistan",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "TJ",
+    "Name": "Tajikistan",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "RO",
+    "Name": "Romania",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "TK",
+    "Name": "Tokelau",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "GW",
+    "Name": "Guinea-Bissau",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "GU",
+    "Name": "Guam",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "GT",
+    "Name": "Guatemala",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "GS",
+    "Name": "South Georgia and the South Sandwich Islands",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "GR",
+    "Name": "Greece",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "GQ",
+    "Name": "Equatorial Guinea",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "GP",
+    "Name": "Guadeloupe",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "JP",
+    "Name": "Japan",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "GY",
+    "Name": "Guyana",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "GG",
+    "Name": "Guernsey",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "GF",
+    "Name": "French Guiana",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "GE",
+    "Name": "Georgia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "GD",
+    "Name": "Grenada",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "GB",
+    "Name": "United Kingdom",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "GA",
+    "Name": "Gabon",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "SV",
+    "Name": "El Salvador",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "GN",
+    "Name": "Guinea",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "GM",
+    "Name": "Gambia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "GL",
+    "Name": "Greenland",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "GI",
+    "Name": "Gibraltar",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "GH",
+    "Name": "Ghana",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "OM",
+    "Name": "Oman",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "TN",
+    "Name": "Tunisia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "JO",
+    "Name": "Jordan",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "HR",
+    "Name": "Croatia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "HT",
+    "Name": "Haiti",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "HU",
+    "Name": "Hungary",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "HK",
+    "Name": "Hong Kong",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "HN",
+    "Name": "Honduras",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "HM",
+    "Name": "Heard Island and McDonald Islands",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "VE",
+    "Name": "Venezuela",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "PR",
+    "Name": "Puerto Rico",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "PS",
+    "Name": "Palestinian Territory",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "PW",
+    "Name": "Palau",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "PT",
+    "Name": "Portugal",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "SJ",
+    "Name": "Svalbard and Jan Mayen",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "PY",
+    "Name": "Paraguay",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "IQ",
+    "Name": "Iraq",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "PA",
+    "Name": "Panama",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "PF",
+    "Name": "French Polynesia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "PG",
+    "Name": "Papua New Guinea",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "PE",
+    "Name": "Peru",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "PK",
+    "Name": "Pakistan",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "PH",
+    "Name": "Philippines",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "PN",
+    "Name": "Pitcairn",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "PL",
+    "Name": "Poland",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "PM",
+    "Name": "Saint Pierre and Miquelon",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "ZM",
+    "Name": "Zambia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "EH",
+    "Name": "Western Sahara",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "EE",
+    "Name": "Estonia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "EG",
+    "Name": "Egypt",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "ZA",
+    "Name": "South Africa",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "EC",
+    "Name": "Ecuador",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "IT",
+    "Name": "Italy",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "VN",
+    "Name": "Vietnam",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "SB",
+    "Name": "Solomon Islands",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "ET",
+    "Name": "Ethiopia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "SO",
+    "Name": "Somalia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "ZW",
+    "Name": "Zimbabwe",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "SA",
+    "Name": "Saudi Arabia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "ES",
+    "Name": "Spain",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "ER",
+    "Name": "Eritrea",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "ME",
+    "Name": "Montenegro",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "MD",
+    "Name": "Moldova",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "MG",
+    "Name": "Madagascar",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "MF",
+    "Name": "Saint Martin",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "MA",
+    "Name": "Morocco",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "MC",
+    "Name": "Monaco",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "UZ",
+    "Name": "Uzbekistan",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "MM",
+    "Name": "Myanmar",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "ML",
+    "Name": "Mali",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "MO",
+    "Name": "Macao",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "MN",
+    "Name": "Mongolia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "MH",
+    "Name": "Marshall Islands",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "MK",
+    "Name": "Macedonia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "MU",
+    "Name": "Mauritius",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "MT",
+    "Name": "Malta",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "MW",
+    "Name": "Malawi",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "MV",
+    "Name": "Maldives",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "MQ",
+    "Name": "Martinique",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "MP",
+    "Name": "Northern Mariana Islands",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "MS",
+    "Name": "Montserrat",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "MR",
+    "Name": "Mauritania",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "IM",
+    "Name": "Isle of Man",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "UG",
+    "Name": "Uganda",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "TZ",
+    "Name": "Tanzania",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "MY",
+    "Name": "Malaysia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "MX",
+    "Name": "Mexico",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "IL",
+    "Name": "Israel",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "FR",
+    "Name": "France",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "IO",
+    "Name": "British Indian Ocean Territory",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "SH",
+    "Name": "Saint Helena",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "FI",
+    "Name": "Finland",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "FJ",
+    "Name": "Fiji",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "FK",
+    "Name": "Falkland Islands",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "FM",
+    "Name": "Micronesia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "FO",
+    "Name": "Faroe Islands",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "NI",
+    "Name": "Nicaragua",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "NL",
+    "Name": "Netherlands",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "NO",
+    "Name": "Norway",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "NA",
+    "Name": "Namibia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "VU",
+    "Name": "Vanuatu",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "NC",
+    "Name": "New Caledonia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "NE",
+    "Name": "Niger",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "NF",
+    "Name": "Norfolk Island",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "NG",
+    "Name": "Nigeria",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "NZ",
+    "Name": "New Zealand",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "NP",
+    "Name": "Nepal",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "NR",
+    "Name": "Nauru",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "NU",
+    "Name": "Niue",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "CK",
+    "Name": "Cook Islands",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "XK",
+    "Name": "Kosovo",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "CI",
+    "Name": "Ivory Coast",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "CH",
+    "Name": "Switzerland",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "CO",
+    "Name": "Colombia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "CN",
+    "Name": "China",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "CM",
+    "Name": "Cameroon",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "CL",
+    "Name": "Chile",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "CC",
+    "Name": "Cocos Islands",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "CA",
+    "Name": "Canada",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "CG",
+    "Name": "Republic of the Congo",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "CF",
+    "Name": "Central African Republic",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "CD",
+    "Name": "Democratic Republic of the Congo",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "CZ",
+    "Name": "Czech Republic",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "CY",
+    "Name": "Cyprus",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "CX",
+    "Name": "Christmas Island",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "CR",
+    "Name": "Costa Rica",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "CW",
+    "Name": "Curacao",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "CV",
+    "Name": "Cape Verde",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "CU",
+    "Name": "Cuba",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "SZ",
+    "Name": "Swaziland",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "SY",
+    "Name": "Syria",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "SX",
+    "Name": "Sint Maarten",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "KG",
+    "Name": "Kyrgyzstan",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "KE",
+    "Name": "Kenya",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "SS",
+    "Name": "South Sudan",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "SR",
+    "Name": "Suriname",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "KI",
+    "Name": "Kiribati",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "KH",
+    "Name": "Cambodia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "KN",
+    "Name": "Saint Kitts and Nevis",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "KM",
+    "Name": "Comoros",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "ST",
+    "Name": "Sao Tome and Principe",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "SK",
+    "Name": "Slovakia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "KR",
+    "Name": "South Korea",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "SI",
+    "Name": "Slovenia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "KP",
+    "Name": "North Korea",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "KW",
+    "Name": "Kuwait",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "SN",
+    "Name": "Senegal",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "SM",
+    "Name": "San Marino",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "SL",
+    "Name": "Sierra Leone",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "SC",
+    "Name": "Seychelles",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "KZ",
+    "Name": "Kazakhstan",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "KY",
+    "Name": "Cayman Islands",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "SG",
+    "Name": "Singapore",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "SE",
+    "Name": "Sweden",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "SD",
+    "Name": "Sudan",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "DO",
+    "Name": "Dominican Republic",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "DM",
+    "Name": "Dominica",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "DJ",
+    "Name": "Djibouti",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "DK",
+    "Name": "Denmark",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "VG",
+    "Name": "British Virgin Islands",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "DE",
+    "Name": "Germany",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "YE",
+    "Name": "Yemen",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "DZ",
+    "Name": "Algeria",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "US",
+    "Name": "United States",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "UY",
+    "Name": "Uruguay",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "YT",
+    "Name": "Mayotte",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "UM",
+    "Name": "United States Minor Outlying Islands",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "LB",
+    "Name": "Lebanon",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "LC",
+    "Name": "Saint Lucia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "LA",
+    "Name": "Laos",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "TV",
+    "Name": "Tuvalu",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "TW",
+    "Name": "Taiwan",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "TT",
+    "Name": "Trinidad and Tobago",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "TR",
+    "Name": "Turkey",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "LK",
+    "Name": "Sri Lanka",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "LI",
+    "Name": "Liechtenstein",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "LV",
+    "Name": "Latvia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "TO",
+    "Name": "Tonga",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "LT",
+    "Name": "Lithuania",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "LU",
+    "Name": "Luxembourg",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "LR",
+    "Name": "Liberia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "LS",
+    "Name": "Lesotho",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "TH",
+    "Name": "Thailand",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "TF",
+    "Name": "French Southern Territories",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "TG",
+    "Name": "Togo",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "TD",
+    "Name": "Chad",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "TC",
+    "Name": "Turks and Caicos Islands",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "LY",
+    "Name": "Libya",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "VA",
+    "Name": "Vatican",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "VC",
+    "Name": "Saint Vincent and the Grenadines",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "AE",
+    "Name": "United Arab Emirates",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "AD",
+    "Name": "Andorra",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "AG",
+    "Name": "Antigua and Barbuda",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "AF",
+    "Name": "Afghanistan",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "AI",
+    "Name": "Anguilla",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "VI",
+    "Name": "U.S. Virgin Islands",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "IS",
+    "Name": "Iceland",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "IR",
+    "Name": "Iran",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "AM",
+    "Name": "Armenia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "AL",
+    "Name": "Albania",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "AO",
+    "Name": "Angola",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "AQ",
+    "Name": "Antarctica",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "AS",
+    "Name": "American Samoa",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "AR",
+    "Name": "Argentina",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "AU",
+    "Name": "Australia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "AT",
+    "Name": "Austria",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "AW",
+    "Name": "Aruba",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "IN",
+    "Name": "India",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "AX",
+    "Name": "Aland Islands",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "AZ",
+    "Name": "Azerbaijan",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "IE",
+    "Name": "Ireland",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "ID",
+    "Name": "Indonesia",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "UA",
+    "Name": "Ukraine",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "QA",
+    "Name": "Qatar",
+    "Enabled": 1
+  },
+  {
+    "ISOCountryCode": "MZ",
+    "Name": "Mozambique",
+    "Enabled": 1
+  }
+]

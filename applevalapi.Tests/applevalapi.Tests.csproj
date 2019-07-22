@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <Description>
+        A .NET Core WebApi project, utilizing SqlLite and EF Core, for Applaudo Studio Evaluation</Description>
+    <VersionPrefix>2.0.0.0</VersionPrefix>
+    <VersionSuffix>Alpha</VersionSuffix>
+    <Authors>Raul Berrios</Authors>
+    <AssemblyName>applevalApi-Tests</AssemblyName>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <IsPackable>false</IsPackable>
+    <Company>Raul Berrios</Company>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="xunit" Version="2.3.1" />
+    <PackageReference Include="Moq" Version="4.8.3" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.7.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <DotNetCliToolReference Include="dotnet-xunit" Version="2.3.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\applevalApi\applevalApi.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="SeedData\" />
+  </ItemGroup>
+</Project>

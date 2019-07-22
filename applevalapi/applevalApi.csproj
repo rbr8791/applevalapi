@@ -1,0 +1,48 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <Description>
+        A .NET Core WebApi project, utilizing SqlLite and EF Core, for Applaudo Studio Evaluation</Description>
+    <VersionPrefix>2.5.2</VersionPrefix>
+    <Authors>Raul Berrios Rivera</Authors>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AssemblyName>applevalApi</AssemblyName>
+    <OutputType>Exe</OutputType>
+    <PackageId>applevalApi</PackageId>
+    <UserSecretsId>8dd69dfc-8bd6-46b4-9bec-186b9044a48d</UserSecretsId>
+    <Company>Raul Berrios Rivera</Company>
+  </PropertyGroup>
+  <!-- Add XML documentation for Swagger (debug) -->
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>bin\Debug\netcoreapp2.2\applevalApi.xml</DocumentationFile>
+  </PropertyGroup>
+  <!-- Add XML documentation for Swagger (release) -->
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>bin\Release\netcoreapp2.2\applevalApi.xml</DocumentationFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Update="wwwroot;Views;appsettings.json;web.config">
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="8.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.2.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="3.1.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer" Version="3.2.0" />
+    <PackageReference Include="Microsoft.Extensions.PlatformAbstractions" Version="1.1.0" />
+    <PackageReference Include="NETStandard.Library" Version="2.0.3" />
+    <PackageReference Include="ClacksMiddlware" Version="2.1.0" />
+    <PackageReference Include="OwaspHeaders.Core" Version="3.5.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="4.0.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <!-- Required to ensure that we have the appsettings file copied to the publish directory -->
+    <None Include="appsettings.Production.json" CopyToPublishDirectory="Always" CopyToOutputDirectory="Always" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\applevalApi.DAL\applevalApi.DAL.csproj" />
+    <ProjectReference Include="..\applevalApi.DTO\applevalApi.DTO.csproj" />
+    <ProjectReference Include="..\applevalApi.Entities\applevalApi.Entities.csproj" />
+    <ProjectReference Include="..\applevalApi.Persistence\applevalApi.Persistence.csproj" />
+  </ItemGroup>
+</Project>

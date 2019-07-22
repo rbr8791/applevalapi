@@ -1,0 +1,28 @@
+version: '2.0.{build}'
+image: Visual Studio 2017
+branches:
+  only:
+  - master
+clone_depth: 1
+init:
+  # Good practise, because Windows
+  - git config --global core.autocrlf true
+before_build:
+  # Display minimal restore text
+  - cmd: dotnet restore --verbosity m
+build_script:
+  # output will be in ./applevalApisrc/bin/Release/netcoreapp2.1/publish/
+  - cmd: dotnet publish -c Release
+test_script:
+ # tests in here
+ # Temporarily disabling tests
+ # - cmd: cd applevalApi.Tests
+ # - cmd: dotnet xunit
+artifacts:
+ - path: '\applevalApi\bin\Release\netcoreapp2.1\publish'
+   name: WebSite
+   type: WebDeployPackage
+deploy:
+- provider: Environment
+  name: applevalApi-Production
+  remove_files: true

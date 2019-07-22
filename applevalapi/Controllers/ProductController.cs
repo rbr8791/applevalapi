@@ -63,7 +63,7 @@ namespace applevalApi.Controllers
             return SingleResult(ProductViewModelHelper.ConvertToViewModel(product));
         }
 
-
+        [AllowAnonymous]
         [HttpGet]
         public IActionResult GetAll()
         {
@@ -72,6 +72,7 @@ namespace applevalApi.Controllers
             return Ok(productsDTO);
         }
 
+        [AllowAnonymous]
         [HttpGet("Get/FindProductByName")]
         public IActionResult FindProductByName(string ProductName)
         {

@@ -93,14 +93,47 @@ namespace applevalApi.DAL
 
 
 
-        public void Delete(int id)
+        public Product Delete(int id, User user)
         {
-            var user = _context.Users.Find(id);
-            if (user != null)
+            RoleService rService = new RoleService(_context);
+            Role role = new Role();
+            role = rService.GetById(user.Role.Id);
+           
+            Product returnProduct = new Product();
+            var product = _context.Products.Find(id);
+
+            if (role.RoleName == "Admin")
             {
-                _context.Users.Remove(user);
-                _context.SaveChanges();
+                if (product != null)
+                {
+                    _context.Products.Remove(product);
+                    _context.SaveChanges();
+
+                    returnProduct.Description = "Delete product Successfully";
+                    returnProduct.Status = false;
+                    returnProduct.Id = 0;
+                    returnProduct.Price = 0;
+                    return returnProduct;
+
+                } else
+                {
+                    returnProduct.Description = "The product doesn't exists!";
+                    returnProduct.Status = false;
+                    returnProduct.Id = 0;
+                    returnProduct.Price = 0;
+                    return returnProduct;
+
+                }
+            } else
+            {
+                returnProduct.Description = "Only Admin users can delete products!";
+                returnProduct.Status = false;
+                returnProduct.Id = 0;
+                returnProduct.Price = 0;
+                return returnProduct;
             }
+
+            
         } // End Delete
 
         /*

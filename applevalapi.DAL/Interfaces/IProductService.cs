@@ -8,7 +8,7 @@ namespace applevalApi.DAL.Interfaces
         IEnumerable<Product> GetAll();
         IEnumerable<Product> GetAllSortedByNameAndLikes();
         Product GetById(int id);
-        void Delete(int id);
+        Product Delete(int id, User user);
         Product FindByOrdinal(int id);
         IEnumerable<Product> FindByName(string productName);
         Product FindByOrdinalAsNoTracking(int id);

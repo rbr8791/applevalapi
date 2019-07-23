@@ -81,6 +81,7 @@ namespace applevalApi.Controllers
             return Ok(productsDTO);
         }
 
+        [AllowAnonymous]
         [HttpGet("Get/GetAllSortedByNameAndLikes")]
         public IActionResult GetAllSortedByNameAndLikes()
         {
@@ -101,8 +102,14 @@ namespace applevalApi.Controllers
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
-            _productService.Delete(id);
-            return Ok();
+            string userId = User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Name).Value;
+
+            //var userId = int.Parse(context.Principal.Identity.Name);
+            var user = _userService.GetById(int.Parse(userId));
+
+            var product = _productService.Delete(id, user);
+            var productDTO = _mapper.Map<ProductDto>(product);
+            return Ok(productDTO);
         }
 
         /// <summary>
@@ -269,7 +276,8 @@ namespace applevalApi.Controllers
 
                 if (r.Id == -1)
                 {
-                    throw new AppException(r.Description);
+                    //throw new AppException(r.Description);
+                    return ErrorResponse(r.Description);
                 }
                 return Ok(r);
 

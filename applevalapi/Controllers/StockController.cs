@@ -48,15 +48,16 @@ namespace applevalApi.Controllers
         /// If no record can be found, then an <see cref="BaseController.ErrorResponse"/> is returned
         /// </returns>
         [HttpGet("Get/{id}")]
-        public JsonResult GetByOrdinal(int id)
+        public IActionResult GetByOrdinal(int id)
         {
             var stock = _stockService.FindByOrdinal(id);
             if (stock == null)
             {
                 return ErrorResponse("Not found");
             }
-
-            return SingleResult(StockViewModelHelper.ConvertToViewModel(stock));
+            var stockDTO = _mapper.Map<StockDto>(stock);
+            return Ok(stockDTO);
+            //return SingleResult(StockViewModelHelper.ConvertToViewModel(stock));
         }
 
 

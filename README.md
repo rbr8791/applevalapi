@@ -38,7 +38,7 @@ The API should allow:
 * Use git and do small commits to facilitate the evaluation of progress.
 * Include a *readme.md* file with instructions on how to setup your project locally to test it. (This is super important, if we cannot install it and run it easily we cannot evaluate it)
 * Upload your solution to your GitHub account and share a link with your evaluator
-* The test has been designed with enough time to do a good job, so don’t cut any corners, take your time and watch for quality
+* The test has been designed with enough time to do a good job, so donï¿½t cut any corners, take your time and watch for quality
 
 
 ### Description
@@ -102,6 +102,6 @@ You will get a Bearer token that you can use to test the API (The basic API secu
 
 
 
-
-
+### Import Postman Request collection
+You can import the postman test request collection from the PostManCollectionExports folder located at the main solution directory.
 
